@@ -1,0 +1,121 @@
+﻿First column name,Second column name,Correlation value
+Gehaltshöhe,Job Sicherheit (unbefristete Anstellung),0.658788783
+Job Sicherheit (unbefristete Anstellung),"Anstellungsart (Teilzeit, Vollzeit)",0.578947266
+Büroausstattung,Job Sicherheit (unbefristete Anstellung),0.526953667
+"Arbeitsmodell (hybrid, remote, vor Ort)",Work-Life-Balance,0.52640205
+Unternehmenskultur,Gesundheitsförderung,0.51544957
+Büroausstattung,"Anstellungsart (Teilzeit, Vollzeit)",0.511889506
+Mentorship,Gesundheitsförderung,0.491605144
+Fortbildungsmöglichkeiten,Ausstattung von Software und Hardware,0.487366913
+Unternehmenskultur,Flexible Arbeitszeiten,0.4713997
+Gehaltshöhe,Work-Life-Balance,0.467522336
+Gesundheitsförderung,Work-Life-Balance,0.461515516
+Selbstverwirklichung,Wertschätzung,0.446545609
+Fortbildungsmöglichkeiten,"Arbeitsmodell (hybrid, remote, vor Ort)",0.441349632
+Unternehmenskultur,Wertschätzung,0.440629485
+Ausstattung von Software und Hardware,Büroausstattung,0.440037318
+Gesundheitsförderung,Wertschätzung,0.428867766
+Ausstattung von Software und Hardware,Job Sicherheit (unbefristete Anstellung),0.422591107
+"Anstellungsart (Teilzeit, Vollzeit)",Work-Life-Balance,0.414298478
+Fortbildungsmöglichkeiten,Flexible Arbeitszeiten,0.408030591
+Sinnstiftende Aufgaben,Gesundheitsförderung,0.407368119
+"Anstellungsart (Teilzeit, Vollzeit)",Mentorship,0.404575144
+Gehaltshöhe,Ausstattung von Software und Hardware,0.401136984
+Unternehmenskultur,Mentorship,0.394335025
+Flexible Arbeitszeiten,Work-Life-Balance,0.388081633
+"Anstellungsart (Teilzeit, Vollzeit)",Gesundheitsförderung,0.387758748
+Ausstattung von Software und Hardware,Gesundheitsförderung,0.387371974
+"Arbeitsmodell (hybrid, remote, vor Ort)",Gesundheitsförderung,0.377428859
+Ausstattung von Software und Hardware,Private Internetnutzung,0.37367348
+Unternehmenskultur,Work-Life-Balance,0.373510261
+Gehaltshöhe,Flexible Arbeitszeiten,0.366269605
+Gehaltshöhe,Fortbildungsmöglichkeiten,0.363525205
+Fortbildungsmöglichkeiten,Wertschätzung,0.363093301
+Flexible Arbeitszeiten,Gesundheitsförderung,0.36288811
+"Arbeitsmodell (hybrid, remote, vor Ort)",Mentorship,0.362782016
+Private Internetnutzung,Gesundheitsförderung,0.362645625
+Fortbildungsmöglichkeiten,Work-Life-Balance,0.353981738
+Büroausstattung,Private Internetnutzung,0.348407037
+Ausstattung von Software und Hardware,Wertschätzung,0.346993794
+Ausstattung von Software und Hardware,Flexible Arbeitszeiten,0.346993794
+Gehaltshöhe,"Anstellungsart (Teilzeit, Vollzeit)",0.340431514
+Gehaltshöhe,Büroausstattung,0.339979339
+Selbstverwirklichung,Gesundheitsförderung,0.339538519
+Fortbildungsmöglichkeiten,Mentorship,0.339285714
+Flexible Arbeitszeiten,Wertschätzung,0.338296112
+Private Internetnutzung,Sinnstiftende Aufgaben,0.330409293
+Ausstattung von Software und Hardware,Mentorship,0.330393468
+Private Internetnutzung,Wertschätzung,0.329272918
+Büroausstattung,Gesundheitsförderung,0.327736763
+Fortbildungsmöglichkeiten,Gesundheitsförderung,0.322615876
+Job Sicherheit (unbefristete Anstellung),Work-Life-Balance,0.320462625
+Büroausstattung,Mentorship,0.319727891
+Unternehmenskultur,Selbstverwirklichung,0.315542166
+"Anstellungsart (Teilzeit, Vollzeit)","Arbeitsmodell (hybrid, remote, vor Ort)",0.312006051
+Ausstattung von Software und Hardware,Work-Life-Balance,0.30594822
+Fortbildungsmöglichkeiten,Selbstverwirklichung,0.304411989
+Sinnstiftende Aufgaben,Work-Life-Balance,0.303356054
+Mentorship,Work-Life-Balance,0.29770205
+Private Internetnutzung,Flexible Arbeitszeiten,0.296800243
+Mentorship,Sinnstiftende Aufgaben,0.295382371
+Job Sicherheit (unbefristete Anstellung),Mentorship,0.293271331
+Mentorship,Wertschätzung,0.291707206
+Unternehmenskultur,"Arbeitsmodell (hybrid, remote, vor Ort)",0.288126938
+"Arbeitsmodell (hybrid, remote, vor Ort)",Flexible Arbeitszeiten,0.28607371
+Ausstattung von Software und Hardware,"Arbeitsmodell (hybrid, remote, vor Ort)",0.280509813
+Ausstattung von Software und Hardware,Sinnstiftende Aufgaben,0.277656756
+Unternehmenskultur,Private Internetnutzung,0.274462631
+Gehaltshöhe,Mentorship,0.274346262
+Ausstattung von Software und Hardware,Selbstverwirklichung,0.27179494
+Büroausstattung,Unternehmenskultur,0.266965831
+Fortbildungsmöglichkeiten,Unternehmenskultur,0.264800555
+Gehaltshöhe,"Arbeitsmodell (hybrid, remote, vor Ort)",0.26094093
+Büroausstattung,Wertschätzung,0.257469271
+Wertschätzung,Work-Life-Balance,0.25456731
+Flexible Arbeitszeiten,Sinnstiftende Aufgaben,0.249212895
+Unternehmenskultur,"Anstellungsart (Teilzeit, Vollzeit)",0.24786428
+Job Sicherheit (unbefristete Anstellung),Private Internetnutzung,0.243243311
+Büroausstattung,Selbstverwirklichung,0.242184124
+Private Internetnutzung,Mentorship,0.240874001
+Ausstattung von Software und Hardware,"Anstellungsart (Teilzeit, Vollzeit)",0.240076099
+Büroausstattung,Sinnstiftende Aufgaben,0.239011689
+Private Internetnutzung,Work-Life-Balance,0.229237043
+Job Sicherheit (unbefristete Anstellung),Gesundheitsförderung,0.225163699
+Fortbildungsmöglichkeiten,"Anstellungsart (Teilzeit, Vollzeit)",0.222543158
+"Anstellungsart (Teilzeit, Vollzeit)",Sinnstiftende Aufgaben,0.220892036
+Ausstattung von Software und Hardware,Unternehmenskultur,0.218099201
+Sinnstiftende Aufgaben,Wertschätzung,0.215167417
+Selbstverwirklichung,Work-Life-Balance,0.214868433
+Selbstverwirklichung,Mentorship,0.210149187
+Job Sicherheit (unbefristete Anstellung),Flexible Arbeitszeiten,0.20676149
+Unternehmenskultur,Sinnstiftende Aufgaben,0.19453936
+Selbstverwirklichung,Sinnstiftende Aufgaben,0.189854983
+Flexible Arbeitszeiten,Mentorship,0.188993401
+Büroausstattung,Flexible Arbeitszeiten,0.188993401
+Büroausstattung,Work-Life-Balance,0.187169111
+Job Sicherheit (unbefristete Anstellung),Selbstverwirklichung,0.184213964
+"Arbeitsmodell (hybrid, remote, vor Ort)",Wertschätzung,0.176885271
+Flexible Arbeitszeiten,Selbstverwirklichung,0.175677389
+"Anstellungsart (Teilzeit, Vollzeit)",Flexible Arbeitszeiten,0.169162657
+"Anstellungsart (Teilzeit, Vollzeit)",Wertschätzung,0.169162657
+Job Sicherheit (unbefristete Anstellung),"Arbeitsmodell (hybrid, remote, vor Ort)",0.16208926
+Fortbildungsmöglichkeiten,Job Sicherheit (unbefristete Anstellung),0.159488194
+"Anstellungsart (Teilzeit, Vollzeit)",Private Internetnutzung,0.154198793
+Fortbildungsmöglichkeiten,Büroausstattung,0.15327381
+Job Sicherheit (unbefristete Anstellung),Wertschätzung,0.136194429
+Private Internetnutzung,Selbstverwirklichung,0.134294009
+Gehaltshöhe,Wertschätzung,0.128432199
+Gehaltshöhe,Gesundheitsförderung,0.126480988
+Unternehmenskultur,Job Sicherheit (unbefristete Anstellung),0.121808291
+Gehaltshöhe,Selbstverwirklichung,0.100882102
+Fortbildungsmöglichkeiten,Private Internetnutzung,0.100207348
+"Arbeitsmodell (hybrid, remote, vor Ort)",Selbstverwirklichung,0.087860045
+"Arbeitsmodell (hybrid, remote, vor Ort)",Sinnstiftende Aufgaben,0.07909974
+Fortbildungsmöglichkeiten,Sinnstiftende Aufgaben,0.071027059
+Job Sicherheit (unbefristete Anstellung),Sinnstiftende Aufgaben,0.047635597
+Gehaltshöhe,Private Internetnutzung,0.047309336
+Gehaltshöhe,Sinnstiftende Aufgaben,0.024800374
+Gehaltshöhe,Unternehmenskultur,0.022414514
+"Arbeitsmodell (hybrid, remote, vor Ort)",Private Internetnutzung,0.022290733
+"Anstellungsart (Teilzeit, Vollzeit)",Selbstverwirklichung,-0.010309301
+Büroausstattung,"Arbeitsmodell (hybrid, remote, vor Ort)",-0.028926141
